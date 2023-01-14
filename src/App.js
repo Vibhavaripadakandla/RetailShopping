@@ -1,6 +1,6 @@
 import React from 'react';
 
-import RewardCalculator from './RewardCalculator';
+import RewardCalculator from './components/RewardCalculator';
 
 const App = () =>{
   return (

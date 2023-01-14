@@ -59,7 +59,6 @@ const RewardCalculator = () => {
 
   return (
     <div>
-
       <table id="customers">
         <tr>
           <th>Name</th>
@@ -75,8 +74,7 @@ const RewardCalculator = () => {
                   <tr key={month}>
                     <td>{month}</td>
                     <td> {points} points</td>
-                  </tr>
-                  
+                  </tr>                 
                 ))}
               </table>
             </td>
